@@ -25,7 +25,7 @@ function main () {
 main();
 
 function startGame () {
-    let 
+    let
         last_time;
 
     initAnimations();
@@ -42,7 +42,7 @@ function startGame () {
 
         //绘制
         
-        
+
         requestAnimationFrame(startGame);
     }
 }
