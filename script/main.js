@@ -41,7 +41,7 @@ function startGame () {
         }
 
         //绘制
-
+        
 
         requestAnimationFrame(startGame);
     }
